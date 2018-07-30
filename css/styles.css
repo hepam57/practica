@@ -10,7 +10,9 @@ width: 100vw;
 background-size: cover;
   background-attachment: fixed;
 	background-position: center center;
-	overflow: hidden;
+	
+	
+	
 transition:50ms ;
 animation: 2s background infinite;
 }
